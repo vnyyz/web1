@@ -10,6 +10,11 @@ body {
     background-color: #181a1b;
 }
 
+.bg-vini {
+    background-color: #181a1b;
+    color: aliceblue;
+}
+
 .home {
     display: flex;
     align-items: center;
@@ -72,7 +77,7 @@ body {
     font-size: 1rem;
     font-weight: bold;
     text-decoration: none;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
     transition: all 0.2s;
     cursor: pointer;
     flex-shrink: 0;
@@ -177,7 +182,7 @@ body {
         order: 2;
         margin-right: 0;
     }
-    
+
     .btn {
         order: 3;
         margin-top: 1rem;
