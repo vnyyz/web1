@@ -19,7 +19,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 88px 10%;
+    padding: 10px 10%;
     flex-wrap: wrap;
     gap: 2rem;
     min-height: 80vh;
@@ -47,6 +47,12 @@ body {
     font-size: 1.1rem;
     line-height: 1.6;
     margin-bottom: 2rem;
+}
+
+hr{
+    color: #f4f4f4;
+    margin: 32px auto;
+    width: 80%;
 }
 
 .social-media {
